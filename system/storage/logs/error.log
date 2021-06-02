@@ -1,0 +1,35 @@
+2021-06-02 21:16:52 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 7
+2021-06-02 21:16:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:16:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:16:52 - PHP Notice:  Undefined variable: mysql in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:16:52 - PHP Notice:  Trying to get property of non-object in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:17:11 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'matrasy' in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 7
+2021-06-02 21:17:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:17:11 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:17:11 - PHP Notice:  Undefined variable: mysql in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:17:11 - PHP Notice:  Trying to get property of non-object in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:18:00 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'matrasy' in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 7
+2021-06-02 21:18:00 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:18:00 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:18:00 - PHP Notice:  Undefined variable: mysql in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:18:00 - PHP Notice:  Trying to get property of non-object in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:19:26 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'matrasy' in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 7
+2021-06-02 21:19:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:19:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:19:26 - PHP Notice:  Undefined variable: mysql in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:19:26 - PHP Notice:  Trying to get property of non-object in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:19:37 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 7
+2021-06-02 21:19:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:19:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:19:37 - PHP Notice:  Undefined variable: mysql in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:19:37 - PHP Notice:  Trying to get property of non-object in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:19:58 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'matrasy' in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 7
+2021-06-02 21:19:58 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:19:58 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:19:58 - PHP Notice:  Undefined variable: mysql in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:19:58 - PHP Notice:  Trying to get property of non-object in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:21:38 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'matrasy' in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 7
+2021-06-02 21:21:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:21:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\matrasy.biz\system\library\db\mysqli.php on line 10
+2021-06-02 21:21:38 - PHP Notice:  Undefined variable: mysql in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
+2021-06-02 21:21:38 - PHP Notice:  Trying to get property of non-object in E:\OpenServer\domains\matrasy.biz\install\controller\install\step_3.php on line 280
